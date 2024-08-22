@@ -7,7 +7,7 @@
 - [ ] The code will be released soon.
 
 
-<!-- ![framework_img](figs/Framework-final.png) -->
+<!-- ![framework_img](Framework-final.png) -->
 
 
 ## Abstract
